@@ -27,7 +27,11 @@
 ---
 
 ### Задание 3
+Настройки pipeline для отправки в Nexus
 
-[Объединение веток](https://github.com/biparasite/8-01HW/network)
+[Push to Nexus](https://github.com/biparasite/8-02HW/pipeline_script.png)
+
+Заруск и выполнение pipeline
+![Запуск pipeline](https://github.com/biparasite/8-02HW/blob/main/pipeline_nexus.png)
 
 ---
