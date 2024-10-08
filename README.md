@@ -16,9 +16,9 @@
 
 ### Задание 2
 
-#### Jenkins pipeline 
+#### Jenkins pipeline
 
-Настройки pipeline 
+Настройки pipeline
 ![Настройки pipeline](https://github.com/biparasite/8-02HW/blob/main/pipeline.png)
 
 Запуск pipeline
@@ -27,6 +27,7 @@
 ---
 
 ### Задание 3
+
 Настройки pipeline для отправки в Nexus
 
 [Push to Nexus](https://github.com/biparasite/8-02HW/blob/main/pipeline_script.png)
