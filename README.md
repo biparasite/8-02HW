@@ -31,5 +31,3 @@
 [Объединение веток](https://github.com/biparasite/8-01HW/network)
 
 ---
-
-dd
