@@ -16,7 +16,13 @@
 
 ### Задание 2
 
-[Добавление .gitignore](https://github.com/biparasite/8-01HW/commit/d85d613360b9b04fe50836563c7542414585ada8)
+#### Jenkins pipeline 
+
+Настройки pipeline 
+![Настройки pipeline](https://github.com/biparasite/8-02HW/blob/main/pipeline.png)
+
+Запуск pipeline
+![Запуск pipeline](https://github.com/biparasite/8-02HW/blob/main/pipeline_run.png)
 
 ---
 
