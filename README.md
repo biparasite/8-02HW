@@ -5,7 +5,11 @@
 ### Задание 1
 
 #### Jenkins Freestyle Project
+
+Настройки Freestyle Project
 ![Настройки Freestyle Project](https://github.com/biparasite/8-02HW/blob/main/Freestyle%20Project.png)
+
+Запуск Freestyle Project
 ![Запуск Freestyle Project](https://github.com/biparasite/8-02HW/blob/main/run.png)
 
 ---
