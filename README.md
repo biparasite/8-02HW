@@ -4,7 +4,9 @@
 
 ### Задание 1
 
-[Первый коммит в ветку main](https://github.com/biparasite/8-01HW/commit/bdd9c50cb0f1f751d28a480f6f140d670d0dc4a6)
+#### Jenkins Freestyle Project
+![Настройки Freestyle Project](https://github.com/biparasite/8-02HW/blob/main/Freestyle%20Project.png)
+![Запуск Freestyle Project](https://github.com/biparasite/8-02HW/blob/main/run.png)
 
 ---
 
