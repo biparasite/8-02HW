@@ -36,3 +36,17 @@
 ![Запуск pipeline](https://github.com/biparasite/8-02HW/blob/main/pipeline_nexus.png)
 
 ---
+
+### Задание 4
+
+Настройки pipeline для отправки в Nexus с версией
+
+![Push to Nexus](https://github.com/biparasite/8-02HW/blob/main/pipeline_script_ver.png)
+
+Заруск и выполнение pipeline
+![Запуск pipeline](https://github.com/biparasite/8-02HW/blob/main/pipeline_nexus_ver.png)
+
+Хранилище Nexus 
+![Запуск pipeline](https://github.com/biparasite/8-02HW/blob/main/nexus.png)
+
+---
